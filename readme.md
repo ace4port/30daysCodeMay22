@@ -102,11 +102,11 @@ Just give me a few days to plan this out :D
  
 ## Why am I doing this
 Many reasons- some of which are
-Scan out talent (for future projects)
-Self learning (I learn from your code, designs)
-Collaboration
-Consistency and discipline
-Community involvement and bonding
+- Scan out talent (for future projects)
+- Self learning (I learn from your code, designs)
+- Collaboration
+- Consistency and discipline
+- Community involvement and bonding
 This is something I would absolutely take part in when I was starting out and I think it can help many of you to get started with your career too.
 Currently I cannot guarantee anyone anything regarding jobs and internship but I will be actively looking and working with people I know for it too!!
 
