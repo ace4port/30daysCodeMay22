@@ -32,6 +32,9 @@ Landing pages
 Product landing 
 1. https://html5up.net/landed
 2. https://html5up.net/helios
+3. https://pixelarity.com/threshold
+4. https://pixelarity.com/hypothesis
+5. https://pixelarity.com/hyperbolic
 
 
 Personal portfolio
